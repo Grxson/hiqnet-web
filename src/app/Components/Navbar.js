@@ -23,6 +23,8 @@ const Navbar = () => {
                     <NavLink href="/contact">Contacto</NavLink>
                 </div>
 
+             {/*hola uwu, solo estoy probando */}
+
                 {/* Botón Menú Hamburguesa */}
                 <button
                     className="md:hidden"
